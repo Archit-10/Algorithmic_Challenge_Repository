@@ -17,9 +17,9 @@ public:
             if (pq.size() > ladders)
             {
                 if (pq.top() <= bricks)
-                    bricks -= pq.top();
-                pq.pop();
-                else return i - 1;
+                    bricks -= pq.top(), pq.pop();
+                else
+                    return i - 1;
             }
         }
         return heights.size() - 1;
