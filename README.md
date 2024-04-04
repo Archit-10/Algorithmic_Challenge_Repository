@@ -1,6 +1,6 @@
 Daily Coding Problems Repository:
 
-This repository is solely for personal practice and contains solutions to miscellaneous daily coding problems featured in competitive programming or problem of the day challenges. Each problem is solved and categorized based on the programming language used for the solution.
+This repository is solely for personal practice and contains solutions to miscellaneous daily coding problems featured in competitive programming or problem of the day challenges. Each problem is solved and contains README.md recursively inside each folder which will let you know the problem statements and their respective time constraints.
 
 About
 
