@@ -1,24 +1,27 @@
-ou are given an array nums consisting of positive integers.
+Daily Coding Problems Repository:
 
-Return the total frequencies of elements in nums such that those elements all have the maximum frequency.
+This repository is solely for personal practice and contains solutions to miscellaneous daily coding problems featured in competitive programming or problem of the day challenges. Each problem is solved and categorized based on the programming language used for the solution.
 
-The frequency of an element is the number of occurrences of that element in the array.
+About
 
-Example 1:
+This repository serves as a personal practice space to tackle daily coding challenges without strict categorization based on difficulty level or topic. The primary goal is self-improvement through consistent problem-solving and exploration of various algorithmic techniques.
 
-Input: nums = [1,2,2,3,1,4]
-Output: 4
-Explanation: The elements 1 and 2 have a frequency of 2 which is the maximum frequency in the array.
-So the number of elements in the array with maximum frequency is 4.
+Language
 
-Example 2:
+Solutions are implemented solely in C++ to focus on proficiency in this language. Feel free to explore different approaches and optimizations within C++ for personal learning and skill enhancement.
 
-Input: nums = [1,2,3,4,5]
-Output: 5
-Explanation: All elements of the array have a frequency of 1 which is the maximum.
-So the number of elements in the array with maximum frequency is 5.
+Problem Categories
 
-Constraint:
+Problems are categorized based on their difficulty level and topic. Some common categories include:
 
-    1 <= nums.length <= 100
-    1 <= nums[i] <= 100
+    Arrays
+    Strings
+    Linked Lists
+    Trees
+    Graphs
+    Dynamic Programming
+    Sorting and Searching
+    Recursion
+    Bit Manipulation
+    Mathematics
+    Greedy Algorithms
