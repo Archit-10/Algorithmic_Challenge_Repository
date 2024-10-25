@@ -1,10 +1,10 @@
 Daily Coding Problems Repository:
 
-This repository is solely for personal practice and contains solutions to miscellaneous daily coding problems featured in competitive programming or problem of the day challenges. Each problem is solved and contains README.md recursively inside each folder which will let you know the problem statements and their respective time constraints.
+This repository is dedicated to providing solutions to various daily coding problems featured in competitive programming and problem-of-the-day challenges. Each problem is solved and includes a README.md file within its respective folder, detailing the problem statements and their time constraints.
 
 About
 
-This repository serves as a personal practice space to tackle daily coding challenges without strict categorization based on difficulty level or topic. The primary goal is self-improvement through consistent problem-solving and exploration of various algorithmic techniques.
+This repository aims to be a valuable resource for anyone looking to enhance their coding skills through daily challenges. While it serves as a personal practice space, it also offers a collection of diverse problems and solutions for others to explore. The primary goal is to facilitate self-improvement and knowledge sharing by tackling a variety of algorithmic techniques and problem-solving strategies. Whether you're a beginner or an experienced programmer, you'll find useful insights and solutions here to aid your coding journey..
 
 Language
 
